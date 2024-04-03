@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:blasting",
+    "category": "msic",
+    "cookingtime": 700,
+    "experience": 5.4,
+    "ingridient": {
+        "item": "minecraft:raw_iron_block"
+    },
+    "result": "minecraft:iron_block"
+}
