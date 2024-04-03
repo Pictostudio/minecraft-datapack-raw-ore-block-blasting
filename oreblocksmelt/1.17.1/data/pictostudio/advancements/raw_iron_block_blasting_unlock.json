@@ -12,7 +12,7 @@
     },
     "rewards": {
         "recipes": [
-            "pictostudio:raw_iron_ore_block_blasting"
+            "pictostudio:blasting/raw_iron_ore_block_blasting"
         ]
     }
 }
