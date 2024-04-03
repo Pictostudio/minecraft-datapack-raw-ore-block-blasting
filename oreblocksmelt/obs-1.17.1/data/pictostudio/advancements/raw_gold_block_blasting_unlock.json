@@ -4,15 +4,17 @@
         "requirement": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
-                "items": {
-                    "item": "minecraft:raw_iron"
-                }
+                "items": [
+                    {
+                        "item": "minecraft:raw_gold"
+                    }
+                ]
             }
         }
     },
     "rewards": {
         "recipes": [
-            "pictostudio:blasting/raw_iron_ore_block_blasting"
+            "pictostudio:blasting/raw_gold_ore_block_blasting"
         ]
     }
 }
