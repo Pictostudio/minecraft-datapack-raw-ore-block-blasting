@@ -2,20 +2,20 @@
     "type": "crafting_shaped",
     "group": "wooden_sign",
     "pattern": [
-        "AAA",
-        "AAA",
+        "BBB",
+        "BBB",
         " S "
     ],
     "key": {
-        "A": {
-            "item": "minecraft:acacia_planks"
+        "B": {
+            "item": "minecraft:birch_planks"
         },
         "S": {
             "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:acacia_sign",
+        "item": "minecraft:birch_sign",
         "count": 6
     }
 }

@@ -2,20 +2,20 @@
     "type": "crafting_shaped",
     "group": "wooden_sign",
     "pattern": [
-        "AAA",
-        "AAA",
+        "JJJ",
+        "JJJ",
         " S "
     ],
     "key": {
-        "A": {
-            "item": "minecraft:acacia_planks"
+        "J": {
+            "item": "minecraft:jungle_planks"
         },
         "S": {
             "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:acacia_sign",
+        "item": "minecraft:jungle_sign",
         "count": 6
     }
 }

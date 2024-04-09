@@ -2,20 +2,20 @@
     "type": "crafting_shaped",
     "group": "wooden_sign",
     "pattern": [
-        "AAA",
-        "AAA",
+        "WWW",
+        "WWW",
         " S "
     ],
     "key": {
-        "A": {
-            "item": "minecraft:acacia_planks"
+        "W": {
+            "item": "minecraft:warped_planks"
         },
         "S": {
             "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:acacia_sign",
+        "item": "minecraft:warped_sign",
         "count": 6
     }
 }
