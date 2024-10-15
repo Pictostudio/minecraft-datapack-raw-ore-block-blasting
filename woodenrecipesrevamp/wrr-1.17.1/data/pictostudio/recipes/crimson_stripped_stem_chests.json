@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "group": "wood",
+    "pattern": [
+        "CCC",
+        "C C",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:stripped_crimson_stem"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 4
+    }
+}
