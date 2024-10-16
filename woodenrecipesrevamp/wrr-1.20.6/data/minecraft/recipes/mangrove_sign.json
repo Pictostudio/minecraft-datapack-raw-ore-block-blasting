@@ -8,10 +8,10 @@
     ],
     "key": {
         "M": {
-            "id": "minecraft:mangrove_planks"
+            "item": "minecraft:mangrove_planks"
         },
         "S": {
-            "id": "minecraft:stick"
+            "item": "minecraft:stick"
         }
     },
     "result": {

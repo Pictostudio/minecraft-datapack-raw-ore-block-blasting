@@ -3,7 +3,7 @@
     "group": "wooden_button",
     "ingredients": [
       {
-        "id": "minecraft:warped_planks"
+        "item": "minecraft:warped_planks"
       }
     ],
     "result": {

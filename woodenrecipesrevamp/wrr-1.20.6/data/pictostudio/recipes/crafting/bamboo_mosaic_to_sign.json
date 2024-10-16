@@ -15,7 +15,7 @@
         }
     },
     "result": {
-        "item": "minecraft:bamboo_sign",
+        "id": "minecraft:bamboo_sign",
         "count": 6
     }
 }

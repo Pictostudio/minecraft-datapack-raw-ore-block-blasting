@@ -8,10 +8,10 @@
     ],
     "key": {
         "D": {
-            "id": "minecraft:dark_oak_planks"
+            "item": "minecraft:dark_oak_planks"
         },
         "S": {
-            "id": "minecraft:stick"
+            "item": "minecraft:stick"
         }
     },
     "result": {

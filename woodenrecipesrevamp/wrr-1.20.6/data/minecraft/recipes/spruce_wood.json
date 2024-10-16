@@ -7,7 +7,7 @@
     ],
     "key": {
         "S": {
-            "id": "minecraft:spruce_log"
+            "item": "minecraft:spruce_log"
         }
     },
     "result": {

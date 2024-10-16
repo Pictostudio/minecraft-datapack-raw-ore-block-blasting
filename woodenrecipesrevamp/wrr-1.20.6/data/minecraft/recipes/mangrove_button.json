@@ -3,7 +3,7 @@
     "group": "wooden_button",
     "ingredients": [
       {
-        "id": "minecraft:mangrove_planks"
+        "item": "minecraft:mangrove_planks"
       }
     ],
     "result": {

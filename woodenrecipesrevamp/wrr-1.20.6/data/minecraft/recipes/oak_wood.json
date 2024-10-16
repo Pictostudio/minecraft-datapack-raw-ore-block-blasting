@@ -7,7 +7,7 @@
     ],
     "key": {
         "O": {
-            "id": "minecraft:oak_log"
+            "item": "minecraft:oak_log"
         }
     },
     "result": {

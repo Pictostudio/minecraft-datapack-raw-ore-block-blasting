@@ -8,10 +8,10 @@
     ],
     "key": {
         "O": {
-            "id": "minecraft:oak_planks"
+            "item": "minecraft:oak_planks"
         },
         "S": {
-            "id": "minecraft:stick"
+            "item": "minecraft:stick"
         }
     },
     "result": {

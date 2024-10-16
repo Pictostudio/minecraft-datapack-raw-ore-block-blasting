@@ -3,7 +3,7 @@
     "group": "wooden_button",
     "ingredients": [
       {
-        "id": "minecraft:jungle_planks"
+        "item": "minecraft:jungle_planks"
       }
     ],
     "result": {

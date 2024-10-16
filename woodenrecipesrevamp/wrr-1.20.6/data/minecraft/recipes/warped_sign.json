@@ -8,10 +8,10 @@
     ],
     "key": {
         "W": {
-            "id": "minecraft:warped_planks"
+            "item": "minecraft:warped_planks"
         },
         "S": {
-            "id": "minecraft:stick"
+            "item": "minecraft:stick"
         }
     },
     "result": {
