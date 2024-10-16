@@ -2,13 +2,13 @@
     "type": "crafting_shaped",
     "group": "wood",
     "pattern": [
-        "CCC",
-        "C C",
-        "CCC"
+        "WWW",
+        "W W",
+        "WWW"
     ],
     "key": {
-        "C": {
-            "item": "minecraft:stripped_crimson_stem"
+        "W": {
+            "item": "minecraft:stripped_warped_stem"
         }
     },
     "result": {
