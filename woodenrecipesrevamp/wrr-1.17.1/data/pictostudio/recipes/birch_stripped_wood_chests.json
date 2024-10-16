@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "wood",
+  "pattern": [
+      "BBB",
+      "B B",
+      "BBB"
+  ],
+  "key": {
+      "B": {
+          "item": "minecraft:stripped_birch_wood"
+      }
+  },
+  "result": {
+      "item": "minecraft:chest",
+      "count": 4
+  }
+}

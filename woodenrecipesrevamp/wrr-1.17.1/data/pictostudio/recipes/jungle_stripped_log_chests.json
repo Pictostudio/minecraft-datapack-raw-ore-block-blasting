@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "wood",
+  "pattern": [
+      "JJJ",
+      "J J",
+      "JJJ"
+  ],
+  "key": {
+      "J": {
+          "item": "minecraft:stripped_jungle_log"
+      }
+  },
+  "result": {
+      "item": "minecraft:chest",
+      "count": 4
+  }
+}
