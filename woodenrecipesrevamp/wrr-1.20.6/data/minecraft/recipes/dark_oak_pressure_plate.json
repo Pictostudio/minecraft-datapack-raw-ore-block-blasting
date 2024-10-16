@@ -6,7 +6,7 @@
     ],
     "key": {
         "D": {
-            "id": "minecraft:dark_oak_planks"
+            "item": "minecraft:dark_oak_planks"
         }
     },
     "result": {

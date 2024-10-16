@@ -2,20 +2,20 @@
     "type": "crafting_shaped",
     "group": "wooden_sign",
     "pattern": [
-        "PPP",
-        "PPP",
+        "CCC",
+        "CCC",
         " S "
     ],
     "key": {
-        "P": {
-            "id": "minecraft:spruce_planks"
+        "C": {
+            "item": "minecraft:crimson_planks"
         },
         "S": {
-            "id": "minecraft:stick"
+            "item": "minecraft:stick"
         }
     },
     "result": {
-        "id": "minecraft:spruce_sign",
+        "id": "minecraft:crimson_sign",
         "count": 6
     }
 }
