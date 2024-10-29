@@ -1,2 +1,7 @@
-# Ignore spyglass.json
+# Ignored files
 spyglass.json
+version.txt
+.gitignore
+
+# Ignore datapack builds
+/builds
