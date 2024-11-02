@@ -41,7 +41,7 @@ Some of these will be released and others may not be because they won't work or 
 
 ### Other
   <a href="https://github.com/Pictostudio/datapacks">
-    <img width="50" alt="GitHub Repository" src="https://p.kindpng.com/picc/s/128-1280464_github-icon-download-at-icons8-github-icon-white.png">
+    <img width="50" alt="GitHub Repository" src="https://res.cloudinary.com/db9og4cir/image/upload/v1730214332/githublogo_tf6h2r.png">
   </a>
     <a href="https://discord.gg/DaCTamGB4j">
     <img width="50" alt="Pictostudio Discord" src="https://avatarfiles.alphacoders.com/367/367020.png">
