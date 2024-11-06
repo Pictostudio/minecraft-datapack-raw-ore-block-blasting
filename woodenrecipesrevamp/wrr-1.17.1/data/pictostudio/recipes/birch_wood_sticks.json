@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "wood",
+  "pattern": [
+      "B",
+      "B"
+  ],
+  "key": {
+      "B": {
+          "item": "minecraft:birch_wood"
+      }
+  },
+  "result": {
+      "item": "minecraft:stick",
+      "count": 16
+  }
+}
