@@ -13,11 +13,6 @@
 			"foldingRanges": true,
 			"formatting": true,
 			"hover": true,
-			"inlayHint": {
-				"enabledNodes": [
-					"mcfunction:command_child/unknown"
-				]
-			},
 			"semanticColoring": true,
 			"selectionRanges": true,
 			"signatures": true
