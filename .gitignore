@@ -3,3 +3,4 @@
 
 # Ignore datapack builds
 /builds
+/.vscode
