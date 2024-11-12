@@ -2,12 +2,12 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-    "B",
-    "B"
+    "D",
+    "D"
   ],
   "key": {
-    "B": {
-      "item": "minecraft:birch_stripped_wood"
+    "D": {
+      "item": "minecraft:dark_oak_log"
     }
   },
   "result": {
