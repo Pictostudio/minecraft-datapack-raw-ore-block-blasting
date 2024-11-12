@@ -2,13 +2,13 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "OOO",
-      "O O",
-      "OOO"
+      "LLL",
+      "L L",
+      "LLL"
   ],
   "key": {
-      "O": {
-          "item": "minecraft:stripped_oak_log"
+      "L": {
+          "tag": "logs"
       }
   },
   "result": {
