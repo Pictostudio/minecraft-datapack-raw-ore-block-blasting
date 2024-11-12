@@ -2,13 +2,13 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-    "JJJ",
-    "J J",
-    "JJJ"
+    "LLL",
+    "L L",
+    "LLL"
   ],
   "key": {
-    "J": {
-      "item": "minecraft:stripped_jungle_log"
+    "L": {
+      "tag": "logs"
     }
   },
   "result": {
