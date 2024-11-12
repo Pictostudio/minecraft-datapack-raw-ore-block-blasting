@@ -1,18 +1,18 @@
 {
-    "type": "crafting_shaped",
-    "group": "wood",
-    "pattern": [
-        "WWW",
-        "W W",
-        "WWW"
-    ],
-    "key": {
-        "W": {
-            "item": "minecraft:stripped_warped_stem"
-        }
-    },
-    "result": {
-        "item": "minecraft:chest",
-        "count": 4
+  "type": "crafting_shaped",
+  "group": "wood",
+  "pattern": [
+    "WWW",
+    "W W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:stripped_warped_stem"
     }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 4
+  }
 }

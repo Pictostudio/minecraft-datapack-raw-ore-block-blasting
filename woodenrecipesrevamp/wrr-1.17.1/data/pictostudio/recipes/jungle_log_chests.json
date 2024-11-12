@@ -2,17 +2,17 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "JJJ",
-      "J J",
-      "JJJ"
+    "JJJ",
+    "J J",
+    "JJJ"
   ],
   "key": {
-      "J": {
-          "item": "minecraft:jungle_log"
-      }
+    "J": {
+      "item": "minecraft:jungle_log"
+    }
   },
   "result": {
-      "item": "minecraft:chest",
-      "count": 4
+    "item": "minecraft:chest",
+    "count": 4
   }
 }

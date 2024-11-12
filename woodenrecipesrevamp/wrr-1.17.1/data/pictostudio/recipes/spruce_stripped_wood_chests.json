@@ -2,17 +2,17 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "SSS",
-      "S S",
-      "SSS"
+    "SSS",
+    "S S",
+    "SSS"
   ],
   "key": {
-      "S": {
-          "item": "minecraft:stripped_spruce_wood"
-      }
+    "S": {
+      "item": "minecraft:stripped_spruce_wood"
+    }
   },
   "result": {
-      "item": "minecraft:chest",
-      "count": 4
+    "item": "minecraft:chest",
+    "count": 4
   }
 }

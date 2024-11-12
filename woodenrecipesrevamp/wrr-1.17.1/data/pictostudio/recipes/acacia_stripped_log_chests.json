@@ -2,17 +2,17 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "AAA",
-      "A A",
-      "AAA"
+    "AAA",
+    "A A",
+    "AAA"
   ],
   "key": {
-      "A": {
-          "item": "minecraft:stripped_acacia_log"
-      }
+    "A": {
+      "item": "minecraft:stripped_acacia_log"
+    }
   },
   "result": {
-      "item": "minecraft:chest",
-      "count": 4
+    "item": "minecraft:chest",
+    "count": 4
   }
 }

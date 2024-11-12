@@ -2,16 +2,16 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "A",
-      "A"
+    "A",
+    "A"
   ],
   "key": {
-      "A": {
-          "item": "minecraft:acacia_stripped_wood"
-      }
+    "A": {
+      "item": "minecraft:acacia_stripped_wood"
+    }
   },
   "result": {
-      "item": "minecraft:stick",
-      "count": 16
+    "item": "minecraft:stick",
+    "count": 16
   }
 }

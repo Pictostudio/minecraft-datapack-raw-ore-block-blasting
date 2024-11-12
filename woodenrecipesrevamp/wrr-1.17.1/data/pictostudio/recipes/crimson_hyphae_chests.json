@@ -2,17 +2,17 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "CCC",
-      "C C",
-      "CCC"
+    "CCC",
+    "C C",
+    "CCC"
   ],
   "key": {
-      "C": {
-          "item": "minecraft:crimson_hyphae"
-      }
+    "C": {
+      "item": "minecraft:crimson_hyphae"
+    }
   },
   "result": {
-      "item": "minecraft:chest",
-      "count": 4
+    "item": "minecraft:chest",
+    "count": 4
   }
 }

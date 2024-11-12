@@ -2,17 +2,17 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "BBB",
-      "B B",
-      "BBB"
+    "BBB",
+    "B B",
+    "BBB"
   ],
   "key": {
-      "B": {
-          "item": "minecraft:birch_log"
-      }
+    "B": {
+      "item": "minecraft:birch_log"
+    }
   },
   "result": {
-      "item": "minecraft:chest",
-      "count": 4
+    "item": "minecraft:chest",
+    "count": 4
   }
 }

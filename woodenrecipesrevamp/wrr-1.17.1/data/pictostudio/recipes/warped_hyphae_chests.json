@@ -2,17 +2,17 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "WWW",
-      "W W",
-      "WWW"
+    "WWW",
+    "W W",
+    "WWW"
   ],
   "key": {
-      "W": {
-          "item": "minecraft:warped_hyphae"
-      }
+    "W": {
+      "item": "minecraft:warped_hyphae"
+    }
   },
   "result": {
-      "item": "minecraft:chest",
-      "count": 4
+    "item": "minecraft:chest",
+    "count": 4
   }
 }

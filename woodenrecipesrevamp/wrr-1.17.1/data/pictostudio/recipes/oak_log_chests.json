@@ -2,17 +2,17 @@
   "type": "crafting_shaped",
   "group": "wood",
   "pattern": [
-      "OOO",
-      "O O",
-      "OOO"
+    "OOO",
+    "O O",
+    "OOO"
   ],
   "key": {
-      "O": {
-          "item": "minecraft:oak_log"
-      }
+    "O": {
+      "item": "minecraft:oak_log"
+    }
   },
   "result": {
-      "item": "minecraft:chest",
-      "count": 4
+    "item": "minecraft:chest",
+    "count": 4
   }
 }
