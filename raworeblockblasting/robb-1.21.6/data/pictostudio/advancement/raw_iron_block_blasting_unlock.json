@@ -6,7 +6,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:raw_iron"
+                        "items": "minecraft:raw_iron"
                     }
                 ]
             }
